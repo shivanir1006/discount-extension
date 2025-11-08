@@ -1,0 +1,12 @@
+{
+  "welcome": "Willkommen beim {{target}}-Erweiterung!",
+  "iWouldLikeAFreeGiftWithMyOrder": "Ich möchte ein Gratisgeschenk mit meiner Bestellung erhalten",
+  "addAFreeGiftToMyOrder": "Füge ein Gratisgeschenk zu meiner Bestellung hinzu",
+  "attributeChangesAreNotSupported": "Attributänderungen werden in diesem Checkout nicht unterstützt",
+  "discountActivated": "Rabatt erfolgreich aktiviert! 🎉",
+  "youSave": "Du sparst {{amount}} bei Deiner Bestellung 🤩",
+  "cartReserved": "Warenkorb ist für kurze Zeit reserviert",
+  "cartReservedMessage": "Bitte schließen Sie Ihren Kauf schnell ab, um die Verfügbarkeit zu sichern.",
+  "noDiscountTitle": "Kein Rabatt angewendet",
+  "noDiscountMessage": "Noch kein Rabatt angewendet. Fügen Sie einen Rabattcode im Checkout hinzu!"
+}

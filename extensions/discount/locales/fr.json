@@ -1,0 +1,10 @@
+{
+  "welcome": "Bienvenue dans l'extension {{target}}!",
+  "iWouldLikeAFreeGiftWithMyOrder": "Je souhaite recevoir un cadeau gratuit avec ma commande",
+  "addAFreeGiftToMyOrder": "Ajouter un cadeau gratuit à ma commande",
+  "attributeChangesAreNotSupported": "Les modifications d'attribut ne sont pas prises en charge dans cette commande",
+  "discountActivated": "Rabatt erfolgreich aktiviert! 🎉",
+  "youSave": "Du sparst {{amount}} bei deiner Bestellung 🤩",
+  "cartReserved": "Warenkorb ist reserviert min.",
+  "cartReservedMessage": "Bitte schließe deinen Einkauf schnell ab, um die Verfügbarkeit zu gewährleisten."
+}
